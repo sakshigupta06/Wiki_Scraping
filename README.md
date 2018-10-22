@@ -1,9 +1,10 @@
 # Wiki_Scraping
 [![PRs Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](http://makeapullrequest.com) [![made-with-python](https://img.shields.io/badge/made%20with-python-blue.svg)](https://www.python.org/)
 
-Wiki Scraping is a simple python web scraping tool to scrap educational institutions details from [Wikipedia](https://www.wikipedia.org/) using user input.
+_Wiki Scraping is a simple python web scraping tool to scrap educational institutions details from [Wikipedia](https://www.wikipedia.org/) using user input._
 
-## This repository is part of Gof-2018 . Don't forget to register yourself before contributing.
+## This repository is part of [Gof-2018](http://gof.technojam.tech) . Don't forget to register yourself before contributing.
+8] . Don't forget to register yourself before contributing.
 ### Project Status<br>
 Committed code is scrapping the Motto of MIT. Later on we can enhance the code in such a way that it may be able to fetch any data from wikipedia of any college, school or organizations as per user need.
 
