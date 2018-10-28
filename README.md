@@ -33,7 +33,7 @@ _Committed code is scrapping the Motto of MIT. Later on we can enhance the code 
     ```
         $ python setup.py install
     ```
-* Create a new branch
+* _Create a new branch_
     ```
         $ git checkout -b my-new-branch
     ```
